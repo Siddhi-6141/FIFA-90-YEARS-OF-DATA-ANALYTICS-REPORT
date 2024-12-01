@@ -1,0 +1,9 @@
+matplotlib
+python
+seaborn
+re
+numpy
+pandas
+plotly
+graph_objs
+
